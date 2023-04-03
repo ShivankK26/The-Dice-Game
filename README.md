@@ -35,7 +35,7 @@ To get started, download all the faces of dice and import them in your project.
 
 
 <!-- CONTACT -->
-## Contact
+# Contact
 
 Name: Shivank Kapur - shivankkapur2004@example.com
 
