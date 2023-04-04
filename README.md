@@ -28,7 +28,7 @@ The Tech Stacks used are:
 <!-- GETTING STARTED -->
 # Getting Started
 
-To get started, download all the faces of dice and import them in your project.
+To get started, download all the faces of dice and import them in your project. After that create the HTML, CSS, and JavaScript files.
 
 
 
@@ -37,7 +37,7 @@ To get started, download all the faces of dice and import them in your project.
 <!-- CONTACT -->
 # Contact
 
-Name: Shivank Kapur - shivankkapur2004@example.com
+Name: Shivank Kapur - shivankkapur2004@gmail.com
 
 Project Link: https://shivankk26.github.io/The-Dice-Game/
 
